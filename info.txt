@@ -1,0 +1,32 @@
+Cuatro apartados:
+Closet, donde guardaremos toda la ropa separada por tipo
+Outfits, donde se podrán hacer conjuntos como las taquillas del Fortnite
+Explore, donde podrás ver outfits y armarios de otra gente
+Wishes, donde podrás guardar futura ropa que tienes planeado comprar
+
+Future Planes:
+¿Añadir un Calendario donde puedas apuntarte tus cosas?
+Añadir recordatorios y notas
+Personalizar armarios como los perfiles de steam ¿estilos de pago?
+¿Suscripción con los estilos?
+¿Wallpapers de inicio personalizables?
+
+
+Colores:
+fondo
+sobrefondo
+contenedor-ropa
+texto
+texto-boton
+boton-header
+boton-header-hover
+boton-interaccion
+boton-interaccion-hover
+
+
+Marketing:
+Redes sociales
+Influencers de moda
+
+    -Tienes tanta ropa que no recuerdas que tienes?
+    -Recuerda tus outfits
