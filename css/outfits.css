@@ -5,7 +5,7 @@ body{
 .outfits-container {
     display: grid;
     height: 100vh;
-    grid-template-columns: 1.5fr 2fr 2fr 2fr .5fr 2fr 2fr 2fr 1.5fr;
+    grid-template-columns: 3fr 2fr 2fr .2fr 2fr 2fr 2fr 2fr 3fr;
     grid-template-rows: 1fr 1fr 10fr 1fr 1fr;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
@@ -17,7 +17,7 @@ body{
 /* Clothe containers begin */
 .closet-sections{
     background-color: var(--background-2);
-    border-radius: 50px;
+    border-radius: 20px;
     display: flex;
     justify-content: space-evenly;
     padding: 35px 0;
@@ -25,11 +25,11 @@ body{
 }
 
 .closet-personal-outfits{ 
-    grid-area: 2 / 2 / 5 / 5; 
+    grid-area: 2 / 2 / 5 / 4; 
 }
 
 .closet-clothes-of-the-outfit{
-    grid-area: 2 / 6 / 5 / 9; 
+    grid-area: 2 / 5 / 5 / 9; 
 }
 /* Clothe containers end */
 
